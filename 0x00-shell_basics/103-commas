@@ -1,2 +1,2 @@
 #!/bin/bash
-Is -mpa
+Is -la -p -n -v
