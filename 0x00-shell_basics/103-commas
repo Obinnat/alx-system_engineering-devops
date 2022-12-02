@@ -1,2 +1,2 @@
 #!/bin/bash
-Is -map|sort-d
+ls -la -p -m -v
